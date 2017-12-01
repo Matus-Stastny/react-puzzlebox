@@ -10,7 +10,7 @@ npm install react-puzzlebox
 ```
 
 ## Docs
-[Component documentation](http://coryhouse.github.io/pluralsight-reusable-components-cra)
+[Component documentation](http://matus-stastny.github.io/react-puzzlebox/)
 
 ## Bundle Size Tip
 You can import individual components from ps-react/lib. This avoids bundling the entire library, which helps reduce bundle size.
