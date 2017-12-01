@@ -2,7 +2,7 @@
 
 # react-puzzlebox
 
-A library of React components based on "Creating Reusable React Components" course on Pluralsight bt Cory House.
+A library of React components based on "Creating Reusable React Components" course on Pluralsight by Cory House.
 
 ## Install
 ```
